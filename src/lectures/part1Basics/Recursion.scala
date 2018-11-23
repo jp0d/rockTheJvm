@@ -1,7 +1,5 @@
 package lectures.part1Basics
 
-import java.util.concurrent.atomic.DoubleAccumulator
-
 import scala.annotation.tailrec
 
 object Recursion extends App {
